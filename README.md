@@ -53,6 +53,8 @@ The URL of the GitHub repository : https://github.com/stellalph/PM-PORTFOLIO.git
 
 The name of the repository is PM-PORTFOLIO
 
+Technologies used :  HTML, CSS and Javascript
+
 ### UPDATED GitHUB Profile
 
 Overview of the updated profile.
