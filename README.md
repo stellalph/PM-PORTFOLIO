@@ -70,7 +70,7 @@ The updated resume as mentioned can be retrieved by clicking on the [RESUME](htt
 
  The linkedln profile has also been updated.
 
- As mentioned, this can be retrieved by click of the [Linkedln](https://www.linkedin.com/in/stella-ling-46246476/) button.
+ As mentioned, this can be retrieved by click of the [Linkedln](https://www.linkedin.com/in/stella-ling-46246476/) icon.
 
 
 
