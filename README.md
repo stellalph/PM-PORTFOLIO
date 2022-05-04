@@ -47,3 +47,20 @@ Starting from the left:-
 * Password Generator
 * Project Tracker
 
+### UPDATED GitHUB Profile
+
+Overview of the updated profile.
+
+![alt text](img/gprofile.png)
+
+The profile is now updated to:-
+* photo
+* biography
+* link to deployed portfolio
+* pinned projects
+* following a few developers
+
+I have decided not to use MIT License at this stage and will consider to have this in the near future and due to privacy act, the contact information for any collaborators is not released.
+
+
+
