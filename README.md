@@ -23,4 +23,11 @@ The contact information is located on the footer page of the portfolio.
 
 
 #### <em>2. Have links to GitHub Profile and Linkedln Profile</em>
-Click on GitHub icon will lead to  [Github](https://github.com/stellalph) profile and clicking on the Linkedln icon will lead to the [Linkedln](www.linkedin.com/in/stella-ling-46246476) profile.
+Click on GitHub icon will lead to  [Github](https://github.com/stellalph) profile and clicking on the Linkedln icon will lead to the [Linkedln](https://www.linkedin.com/in/stella-ling-46246476) profile.
+
+
+#### <em>3. Have a link to a downloadable PDF of the resume</em>
+
+![alt text](img/resume-01.png)
+
+Click on the [RESUME](https://drive.google.com/file/d/14OJbyFC8qyn0dJe3jUYV2ukX46gtuRGH/view?usp=sharing) button will bring on the downloadable PDF of the resume.  Please be patient as this takes time to load.
