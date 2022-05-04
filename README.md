@@ -64,13 +64,13 @@ I have decided not to use MIT License at this stage and will consider to have th
 
 ### UPDATED RESUME
 
-The updated resume as mentioned can be retrieved by clicking on the [RESUME](https://drive.google.com/file/d/14OJbyFC8qyn0dJe3jUYV2ukX46gtuRGH/view?usp=sharing)button of the deployed application of the portfolio.
+The updated resume as mentioned can be retrieved by clicking on the [RESUME](https://drive.google.com/file/d/14OJbyFC8qyn0dJe3jUYV2ukX46gtuRGH/view?usp=sharing) button of the deployed application of the portfolio.
 
 ### UPDATED LINKEDLN
 
  The linkedln profile has also been updated.
 
- As mentioned, this can be retrieved by click of the [Linkedln](https://www.linkedin.com/in/stella-ling-46246476/)
+ As mentioned, this can be retrieved by click of the [Linkedln](https://www.linkedin.com/in/stella-ling-46246476/) button.
 
 
 
