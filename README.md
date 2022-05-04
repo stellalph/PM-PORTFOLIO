@@ -1,7 +1,17 @@
-## UNIT 08 PROJECT 1 HOMEWORK : PROFESSIONAL MATERIALS
+## 08 PROJECT 1 PROFESSIONAL MATERIALS
 
-### Updated Portfolio
+The requirements is to submit :-
 
-The URL of the Github repository for the updated portfolio is [PM-PORTFOLIO](https://github.com/stellalph/PM-PORTFOLIO.git).
+```
+SUBMIT an updated portfolio featuring Project 1 and two exemplary assignments.
+SUBMIT an updated GitHub profile with pinned respositories featuring Project 1 and two exemplary assignments
+SUBMIT an updated resume
+SUBMIT an updated Linkedln profile
 
-The URL of the deployed application for the updated portfolio is [STELLA PORTFOLIO](https://stellalph.github.io/PM-PORTFOLIO/)
+```
+
+### UPDATED PORTFOLIO
+
+Overview of the updated portfolio:-
+
+![alt text](img/overview-01.png)
