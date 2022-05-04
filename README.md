@@ -28,6 +28,6 @@ Click on GitHub icon will lead to  [Github](https://github.com/stellalph) profil
 
 #### <em>3. Have a link to a downloadable PDF of the resume</em>
 
-![alt text](img/resume-01.png)
+![alt text](img/resume.png)
 
 Click on the [RESUME](https://drive.google.com/file/d/14OJbyFC8qyn0dJe3jUYV2ukX46gtuRGH/view?usp=sharing) button will bring on the downloadable PDF of the resume.  Please be patient as this takes time to load.
