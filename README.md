@@ -53,7 +53,7 @@ Overview of the updated profile.
 
 ![alt text](img/gprofile.png)
 
-The profile is now updated to:-
+The profile is now updated to include:-
 * photo
 * biography
 * link to deployed portfolio
