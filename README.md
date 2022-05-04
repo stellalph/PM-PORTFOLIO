@@ -47,6 +47,10 @@ Starting from the left:-
 * Password Generator
 * Project Tracker
 
+The URL of the deployed application : https://stellalph.github.io/PM-PORTFOLIO/
+The URL of the GitHub repository : https://github.com/stellalph/PM-PORTFOLIO.git
+The name of the repository is PM-PORTFOLIO
+
 ### UPDATED GitHUB Profile
 
 Overview of the updated profile.
