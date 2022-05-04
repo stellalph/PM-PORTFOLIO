@@ -23,7 +23,7 @@ The contact information is located on the footer page of the portfolio.
 
 
 #### <em>2. Have links to GitHub Profile and Linkedln Profile</em>
-Click on GitHub icon will lead to  [Github](https://github.com/stellalph) profile and clicking on the Linkedln icon will lead to the [Linkedln](https://www.linkedin.com/in/stella-ling-46246476) profile.
+Click on GitHub icon will lead to  [Github](https://github.com/stellalph) profile and clicking on the Linkedln icon will lead to the  [Linkedln](https://www.linkedin.com/in/stella-ling-46246476/) 
 
 
 #### <em>3. Have a link to a downloadable PDF of the resume</em>
@@ -61,6 +61,18 @@ The profile is now updated to:-
 * following a few developers
 
 I have decided not to use MIT License at this stage and will consider to have this in the near future and due to privacy act, the contact information for any collaborators is not released.
+
+### UPDATED RESUME
+
+The updated resume as mentioned can be retrieved by clicking on the [RESUME](https://drive.google.com/file/d/14OJbyFC8qyn0dJe3jUYV2ukX46gtuRGH/view?usp=sharing)button of the deployed application of the portfolio.
+
+### UPDATED LINKEDLN
+
+ The linkedln profile has also been updated.
+
+ As mentioned, this can be retrieved by click of the [Linkedln](https://www.linkedin.com/in/stella-ling-46246476/)
+
+
 
 
 
