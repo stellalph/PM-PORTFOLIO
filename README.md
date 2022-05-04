@@ -23,4 +23,4 @@ The contact information is located on the footer page of the portfolio.
 
 
 #### <em>2. Have links to GitHub Profile and Linkedln Profile</em>
-Click on GitHub icon will lead to Gitub profile and clicking on the Linkedln icon will lead to the Linkedln profile.
+Click on GitHub icon will lead to  [Github](https://github.com/stellalph) profile and clicking on the Linkedln icon will lead to the [Linkedln](www.linkedin.com/in/stella-ling-46246476) profile.
