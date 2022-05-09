@@ -34,7 +34,7 @@ Click on the [RESUME](https://drive.google.com/file/d/14OJbyFC8qyn0dJe3jUYV2ukX4
 
 #### <em>4. Displaying at least two examples of student work from either deployed projects or homeworks</em>
 
-<strong>Click on the different images will lead to the deployed version</strong>, GitHub repository, the project title and the screenshot of the deployed application.
+<strong>Click on the different images will lead to the deployed version</strong>, GitHub repository, the project title and below is the screenshot of the deployed applications/projects.
 
 ![alt text](img/projects.png)
 
