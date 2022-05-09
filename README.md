@@ -40,29 +40,35 @@ Click on the [RESUME](https://drive.google.com/file/d/14OJbyFC8qyn0dJe3jUYV2ukX4
 
 Starting from the left:-
 
-* Travel Planner (Group Project)
+* <em>Travel Planner (Group Project)</em>
 
-  - The URL of the deployed application for the Travel Planner is https://chardige.github.io/Travel-planner/
+  - The URL of the functional, deployed application for the Travel Planner is https://chardige.github.io/Travel-planner/
+  - The URL of the GitHub repository for the Travel Planner is https://github.com/CharDige/Travel-planner.git
 
-* Weather Dashboard
+* <em>Weather Dashboard</em>
  
-  - The URL of the deployed application for the Weather Dashboard is https://stellalph.github.io/WEATHER-DASHBOARD/
+  - The URL of the functional, deployed application for the Weather Dashboard is https://stellalph.github.io/   WEATHER-DASHBOARD/
+  - The URL of the GitHub repository for the Weather Dashboard is https://github.com/stellalph/WEATHER-DASHBOARD.git
   
-* Work Day Scheduler
+* <em>Work Day Scheduler</em>
 
-  - The URL of the deployed application for Work Day Scheduler is https://stellalph.github.io/WORK_DAY_SCHEDULER/
+  - The URL of the functional, deployed application for the Work Day Scheduler is https://stellalph.github.io/WORK_DAY_SCHEDULER/
+  - The URL of the GitHub repository for the Work Day Scheduler is https://github.com/stellalph/WORK_DAY_SCHEDULER.git
 
-* Coding Quiz Challenge
+* <em>Coding Quiz Challenge</em>
 
-  - The URL of the deployed application for Coding Quiz Challenge is https://stellalph.github.io/JS_CODE_QUIZ/
+  - The URL of the deployed application for the Coding Quiz Challenge is https://stellalph.github.io/JS_CODE_QUIZ/
+  - The URL of the GitHub repository for the Coding Quiz Challenge is https://github.com/stellalph/JS_CODE_QUIZ.git
 
-* Password Generator
+* <em>Password Generator</em>
 
-  - The URL of the deployed application for Password Generator is https://stellalph.github.io/PASSWORD-GENERATOR/
+  - The URL of the deployed application for the Password Generator is https://stellalph.github.io/PASSWORD-GENERATOR/
+  - The URL of the GitHub repository for the Password Generator is https://github.com/stellalph/PASSWORD-GENERATOR.git
 
-* Project Tracker
+* <em>Project Tracker</em>
 
-  - The URL of the deployed application for Project Tracker is https://stellalph.github.io/PROJECT-TRACKER/
+  - The URL of the deployed application for the Project Tracker is https://stellalph.github.io/PROJECT-TRACKER/
+  - The URL of the GitHub repository for the Project Tracker is https://github.com/stellalph/PROJECT-TRACKER.git
 
 The URL of the deployed application : https://stellalph.github.io/PM-PORTFOLIO/
 
