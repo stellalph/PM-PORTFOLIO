@@ -34,18 +34,35 @@ Click on the [RESUME](https://drive.google.com/file/d/14OJbyFC8qyn0dJe3jUYV2ukX4
 
 #### <em>4. Displaying at least two examples of student work from either deployed projects or homeworks</em>
 
-Click on the different images will lead to the deployed version, GitHub repository, the project title and the screenshot of the deployed application.
+<strong>Click on the different images will lead to the deployed version</strong>, GitHub repository, the project title and the screenshot of the deployed application.
 
 ![alt text](img/projects.png)
 
 Starting from the left:-
 
 * Travel Planner (Group Project)
+
+  - The URL of the deployed application for the Travel Planner is https://chardige.github.io/Travel-planner/
+
 * Weather Dashboard
+ 
+  - The URL of the deployed application for the Weather Dashboard is https://stellalph.github.io/WEATHER-DASHBOARD/
+  
 * Work Day Scheduler
+
+  - The URL of the deployed application for Work Day Scheduler is https://stellalph.github.io/WORK_DAY_SCHEDULER/
+
 * Coding Quiz Challenge
+
+  - The URL of the deployed application for Coding Quiz Challenge is https://stellalph.github.io/JS_CODE_QUIZ/
+
 * Password Generator
+
+  - The URL of the deployed application for Password Generator is https://stellalph.github.io/PASSWORD-GENERATOR/
+
 * Project Tracker
+
+  - The URL of the deployed application for Project Tracker is https://stellalph.github.io/PROJECT-TRACKER/
 
 The URL of the deployed application : https://stellalph.github.io/PM-PORTFOLIO/
 
