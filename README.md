@@ -36,6 +36,10 @@ Click on the [RESUME](https://drive.google.com/file/d/14OJbyFC8qyn0dJe3jUYV2ukX4
 
 <strong>Click on the different images will lead to the deployed version</strong>, GitHub repository, the project title and below is the screenshot of the deployed applications/projects.
 
+To show that the projects open up in all the different tabs:-
+
+![alt text](img/image-03.png)
+
 ![alt text](img/projects.png)
 
 Starting from the left:-
