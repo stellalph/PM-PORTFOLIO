@@ -82,6 +82,9 @@ Technologies used :  HTML, CSS and Javascript
 
 Overview of the updated profile.
 
+
+GitHub Profile : https://github.com/stellalph 
+
 ![alt text](img/gprofile.png)
 
 The profile is now updated to include:-
@@ -92,6 +95,9 @@ The profile is now updated to include:-
 * following a few developers
 
 I have decided not to use MIT License at this stage and will consider to have this in the near future and due to privacy act, the contact information for any collaborators is not released.
+
+
+
 
 ### UPDATED RESUME
 
