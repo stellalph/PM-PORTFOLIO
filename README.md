@@ -97,8 +97,6 @@ The profile is now updated to include:-
 I have decided not to use MIT License at this stage and will consider to have this in the near future and due to privacy act, the contact information for any collaborators is not released.
 
 
-
-
 ### UPDATED RESUME
 
 The updated resume as mentioned can be retrieved by clicking on the [RESUME](https://drive.google.com/file/d/14OJbyFC8qyn0dJe3jUYV2ukX46gtuRGH/view?usp=sharing) button of the deployed application of the portfolio.
