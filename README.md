@@ -38,7 +38,7 @@ Click on the [RESUME](https://drive.google.com/file/d/14OJbyFC8qyn0dJe3jUYV2ukX4
 
 To show that the projects open up in all the different tabs:-
 
-![alt text](img/image-03.png)
+![alt text](img/Image-03.png)
 
 ![alt text](img/projects.png)
 
