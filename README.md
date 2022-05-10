@@ -98,7 +98,6 @@ The profile is now updated to include:-
 * pinned projects
 * following a few developers
 
-I have decided not to use MIT License at this stage and will consider to have this in the near future and due to privacy act, the contact information for any collaborators is not released.
 
 
 ### UPDATED RESUME
@@ -111,7 +110,9 @@ The updated resume as mentioned can be retrieved by clicking on the [RESUME](htt
 
  As mentioned, this can be retrieved by click of the [Linkedln](https://www.linkedin.com/in/stella-ling-46246476/) icon.
 
+### LICENSE
 
+This project is licensed under the Terms of the MIT License.
 
 
 
